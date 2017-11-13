@@ -1,0 +1,12 @@
+[
+    { "_id": 1, "temperature": "토비키리캉(55℃이상)" },
+    { "_id": 2, "temperature": "아쯔캉(50℃전후)" },
+    { "_id": 3, "temperature": "죠유캉(45℃전후)" },
+    { "_id": 4, "temperature": "누루캉(40℃전후)" },
+    { "_id": 5, "temperature": "히토하다캉(35℃전후)" },
+    { "_id": 6, "temperature": "히나다캉(30℃전후)" },
+    { "_id": 7, "temperature": "상온" },
+    { "_id": 8, "temperature": "스즈히에(15℃전후)" },
+    { "_id": 9, "temperature": "하나히에(10℃전후)" },
+    { "_id": 10, "temperature":"유키히에(5℃전후)" }
+  ]
